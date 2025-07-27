@@ -1,0 +1,9 @@
+pythone-telegram-bot
+Langchain
+google-genai
+langchain-huggingface
+chromadb
+InstructorEmbedding
+sentence-transformers
+torch
+langchain_google_genai

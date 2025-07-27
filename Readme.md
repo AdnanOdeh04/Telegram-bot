@@ -270,7 +270,7 @@ Check console output for detailed error messages and API response codes.
 
 <div align="center">
 
-**Made with ❤️ by [Adnan](https://github.com/AdnanOdeh04)**
+**Made  by [Adnan](https://github.com/AdnanOdeh04)**
 
 [⭐ Star this repo](https://github.com/yourusername/telegram-gemini-bot) • [🐛 Report Bug](https://github.com/yourusername/telegram-gemini-bot/issues) • [💡 Request Feature](https://github.com/yourusername/telegram-gemini-bot/issues)
 
